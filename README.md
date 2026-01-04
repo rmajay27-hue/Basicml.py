@@ -2,8 +2,6 @@ Student Marks Prediction using Linear Regression
 
 This project demonstrates a simple Machine Learning model that predicts student marks based on the number of hours studied using Linear Regression.
 
-The dataset used here is "C:\Users\AJAY\Downloads\Student_Marks.csv"
-
  Technologies Used
 
 Python
